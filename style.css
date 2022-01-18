@@ -34,7 +34,7 @@ input {
 
 .text {
     width: 169px;
-    height: 24px;
+    height: 30px;
     border-radius: 5%;
     letter-spacing: 5px;
     text-align: center;
@@ -42,14 +42,11 @@ input {
     cursor:default;
 }
 
-.text1 {
-    width: 26px;
-    height: 24px;
-    border-radius: 50%;
-    letter-spacing: 5px;
-    text-align: center;
-    margin-bottom: 12px;
+.buttonc {
+    width: 50px;
+    height: 65px;
     cursor:pointer;
+    align-items: center;
 }
 
 .main {
